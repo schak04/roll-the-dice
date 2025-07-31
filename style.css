@@ -68,4 +68,5 @@ h1 {
 
 #images img {
     width: 64px; height: 64px; margin: 6px;
+    border-radius: 12px;
 }
