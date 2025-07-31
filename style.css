@@ -1,6 +1,11 @@
 body {
-    background-color: rgb(209, 159, 32);
+    background-color: #f4f4f4;
+    margin: 0;
     font-family: Poppins, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 h1 {
