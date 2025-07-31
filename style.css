@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-    background-color: #aeff23;
+    background-color: #6dd47e;
     padding: 12px 24px;
     border-radius: 12px;
     width: fit-content;
@@ -37,7 +37,9 @@ h1 {
 #rollDiceBtn {
     font-size: 1.2rem;
     font-weight: bold;
-    border-radius: 8px; border: none; background-color: rgb(255, 252, 48);
+    border-radius: 8px;
+    border: none;
+    background-color: #ffd93d;
     padding: 6px 6px;
     cursor: pointer;
     margin: 10px;
