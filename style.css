@@ -30,8 +30,14 @@ h1 {
 }
 
 #diceNum {
-    width: 100px;
-    text-align: center; font-size: 1.5rem; font-weight: bold;
+    width: 80px;
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: bold;
+    padding: 6px 10px;
+    border: 2px solid #c8c7c7;
+    border-radius: 8px;
+    margin-bottom: 16px;
 }
 
 #rollDiceBtn {
