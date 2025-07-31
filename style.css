@@ -52,11 +52,11 @@ h1 {
 }
 
 #rollDiceBtn:hover {
-    background-color: orange;
+    background-color: #ffb347;
 }
 
 #rollDiceBtn:active {
-    background-color: orangered;
+    background-color: #ff6f3c;
 }
 
 #result {
