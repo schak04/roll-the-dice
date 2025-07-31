@@ -1,5 +1,6 @@
 body {
     background-color: rgb(209, 159, 32);
+    font-family: Poppins, sans-serif;
 }
 
 h1 {
@@ -8,7 +9,6 @@ h1 {
 }
 
 #mainContainer {
-    font-family: Helvetica;
     text-align: center;
     font-weight: bold;
     font-size: 1.6rem;
