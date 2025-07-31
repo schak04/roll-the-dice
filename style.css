@@ -57,6 +57,7 @@ h1 {
 
 #rollDiceBtn:active {
     background-color: #ff6f3c;
+    transform: scale(0.96);
 }
 
 #result {
