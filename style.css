@@ -41,12 +41,12 @@ h1 {
 }
 
 #rollDiceBtn {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: bold;
-    border-radius: 8px;
+    border-radius: 10px;
     border: none;
     background-color: #ffd93d;
-    padding: 6px 6px;
+    padding: 10px 16px;
     cursor: pointer;
     margin: 10px;
 }
