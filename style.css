@@ -9,8 +9,12 @@ body {
 }
 
 h1 {
-    background-color: #aeff23; padding: 10px 20px; width: fit-content; justify-self: center;
-    box-shadow: 4px 4px 24px;
+    background-color: #aeff23;
+    padding: 12px 24px;
+    border-radius: 12px;
+    width: fit-content;
+    justify-self: center;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
 }
 
 #mainContainer {
